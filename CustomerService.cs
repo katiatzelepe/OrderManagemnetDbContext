@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace OrderManagment
+namespace  BasketManagment
 {
     public class CustomerService : ICustomerService
     {
